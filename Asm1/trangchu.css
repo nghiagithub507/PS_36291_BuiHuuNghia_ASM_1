@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    display: flexbox;
+    background-color: green;
+    height: 100%;
+}
+a{
+     
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(8, 8, 8);
+}
